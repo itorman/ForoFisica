@@ -174,6 +174,7 @@ Puestos ocupados:
 UNIR (Universidad Internacional de La Rioja).
 
 Asignatura: Fundamentos de Físicos de Informática
+
 Alumno: Aitor Sánchez Garzón
 
 18 de Diciembre de 2020
