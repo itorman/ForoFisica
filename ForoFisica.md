@@ -53,7 +53,7 @@ Puestos ocupados:
 
  
 
-*El reactor de fusión de ITER, va a funcionar de forma pulsada, dicho de otra manera, se va a inicializar y va a fusionar gas durante digamos media hora. El objetivo es que genere más energía que la que consume. Durante esta media hora se van a generar millones de datos de todos los sensores que el reactor tiene, los datos de estos sensores son recogidos por controladores. Algunos son rápidos (Fast Controllers) otros lentos ([PLCs](https://es.wikipedia.org/wiki/Controlador_lógico_programable) ). Finalmente, y gracias al sistema* [*EPICS*](https://epics-controls.org/)*, son archivados.*
+*El reactor de fusión de ITER, va a funcionar de forma pulsada, dicho de otra manera, se va a inicializar y va a fusionar gas durante digamos media hora. El objetivo es que genere más energía que la que consume. Durante esta media hora se van a generar millones de datos de todos los sensores que el reactor tiene, los datos de estos sensores son recogidos por controladores. Algunos son rápidos (Fast Controllers) otros lentos ([PLCs](https://es.wikipedia.org/wiki/Controlador_lógico_programable). Finalmente, y gracias al sistema* [*EPICS*](https://epics-controls.org/)*, son archivados.*
 
  
 
