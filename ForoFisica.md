@@ -149,7 +149,7 @@ Puestos ocupados:
 
 **Red**
 
-*El clúster está equipado con dos redes físicas. Un Gigabit Ethernet, que se utiliza para la administración y la conexión a Internet, y una red InfiniBand, que se utiliza como interconexión interna entre los nodos informáticos y entre los nodos informáticos y el sistema de almacenamiento distribuido* [*Lustre*](https://es.wikipedia.org/wiki/Lustre_(sistema_de_archivos)#:~:text=Lustre es un sistema de,mezcla de Linux y clusters.&text=Lustre presenta a todos los,escritura para los objetos compartidos.)*.*
+*El clúster está equipado con dos redes físicas. Un Gigabit Ethernet, que se utiliza para la administración y la conexión a Internet, y una red InfiniBand, que se utiliza como interconexión interna entre los nodos informáticos y entre los nodos informáticos y el sistema de almacenamiento distribuido* [*Lustre*](https://es.wikipedia.org/wiki/Lustre_(sistema_de_archivos)).*
 
 **Software development environment**
 
