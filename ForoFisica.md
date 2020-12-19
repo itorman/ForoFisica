@@ -19,6 +19,8 @@ Puestos ocupados:
 **Nota del autor:** Si estás más interesado en conocer el proyecto ITER puedes ver a continuación el post del Youtuber, divulgador científico, y PhD en Física, Javier Santaolalla.
 
 [ITER: Así será el mayor reactor nuclear del planeta - YouTube](https://www.youtube.com/watch?v=eA-xuOjyU5I&t=139s)]
+
+
 ![](images/image001.jpg)
 
  
