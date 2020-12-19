@@ -20,7 +20,7 @@ Puestos ocupados:
 
 [ITER: Así será el mayor reactor nuclear del planeta - YouTube](https://www.youtube.com/watch?v=eA-xuOjyU5I&t=139s)](Pinchar aquí para vídeo)
 
-![Captura](Foro física_files/image001.jpg)
+![Captura](ForoFisica/blob/main/Foro%20física_files/image001.jpg)
 
  
 
